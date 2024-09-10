@@ -16,7 +16,7 @@ Experience and Expertise: With a proven track record in iOS development, I offer
 Passion for Learning: I stay up-to-date with the latest industry trends and technologies to ensure that our projects are at the forefront of mobile development.
 - 📫 How to reach me jappu@eg.dk, aj.sabeen@gmail.com +91 9894586749  https://www.linkedin.com/in/jayasabeen-appukuttan-85710b1b/
 - 😄 Pronouns: iOS Developer Seeking Exciting Collaborations
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Travel, Learning advance technologies
 
 <!---
 AJayasabeen/AJayasabeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
